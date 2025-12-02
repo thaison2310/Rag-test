@@ -1,0 +1,9 @@
+pymongo
+faiss-cpu
+numpy
+python-dotenv
+requests
+google-generativeai
+openai
+sentence-transformers
+torch
